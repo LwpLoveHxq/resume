@@ -194,9 +194,9 @@ $(function() {
 	w.load("<ul>");
 	w.load("<li class='writecode'><a href='https://lwplovehxq.github.io/LWP/' target='_blank'>https://lwplovehxq.github.io/LWP/</a></li>");
 	w.load("<li class='writecode'><a href='lwplovehxq.github.io/hxqlwp/' target='_blank'>lwplovehxq.github.io/hxqlwp/</a></li>");
-	w.load("<li class='writecode'><a href='http://wap.huiyoulun.com' target='_blank'>wap.huiyoulun.com</a></li>");
-	w.load("<li class='writecode'><a href='http://www.4000191177.com' target='_blank'>www.4000191177.com</a></li>");
-	w.load("<li class='writecode'><a href='http://jianianhua.youlunshidai.com/' target='_blank'>jianianhua.youlunshidai.com</a></li>");
+	w.load("<li class='writecode'><a href='' target='_blank'></a></li>");
+	w.load("<li class='writecode'><a href='' target='_blank'></a></li>");
+	w.load("<li class='writecode'><a href='' target='_blank'></a></li>");
 	w.load("</ul>");
 	c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
